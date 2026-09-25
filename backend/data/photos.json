@@ -1,0 +1,272 @@
+[
+  {
+    "id": "hero",
+    "src": "/assets/gallery-hero.jpg",
+    "category": "Living room 2",
+    "alt": "Living room with jacuzzi wall"
+  },
+  {
+    "id": "living2",
+    "src": "/assets/gallery-living2.jpg",
+    "category": "Living room 2",
+    "alt": "Living room seating"
+  },
+  {
+    "id": "jacuzzi",
+    "src": "/assets/gallery-jacuzzi.jpg",
+    "category": "Living room 2",
+    "alt": "Private hot tub"
+  },
+  {
+    "id": "bedroom",
+    "src": "/assets/gallery-bedroom.jpg",
+    "category": "Bedroom",
+    "alt": "Bedroom"
+  },
+  {
+    "id": "bedroom1",
+    "src": "/assets/gallery-bedroom1-1.jpg",
+    "category": "Bedroom",
+    "alt": "Bedroom"
+  },
+  {
+    "id": "bedroom2",
+    "src": "/assets/gallery-bedroom1-2.jpg",
+    "category": "Bedroom",
+    "alt": "Bedroom"
+  },
+  {
+    "id": "bedroom3",
+    "src": "/assets/gallery-bedroom1-3.jpg",
+    "category": "Bedroom",
+    "alt": "Bedroom"
+  },
+  {
+    "id": "bedroom4",
+    "src": "/assets/gallery-bedroom1-4.jpg",
+    "category": "Bedroom",
+    "alt": "Bedroom"
+  },
+  {
+    "id": "full-bathroom",
+    "src": "/assets/thumb-bathroom.jpg",
+    "category": "Bathroom",
+    "alt": "Bathroom"
+  },
+  {
+    "id": "thumb-gym",
+    "src": "/assets/thumb-gym.jpg",
+    "category": "Gym",
+    "alt": "Gym"
+  },
+  {
+    "id": "thumb-gym1",
+    "src": "/assets/gym1-1.jpg",
+    "category": "Gym",
+    "alt": "Gym"
+  },
+  {
+    "id": "thumb-gym2",
+    "src": "/assets/gym1-2.jpg",
+    "category": "Gym",
+    "alt": "Gym"
+  },
+  {
+    "id": "thumb-gym3",
+    "src": "/assets/gym1-3.jpg",
+    "category": "Gym",
+    "alt": "Gym"
+  },
+  {
+    "id": "thumb-gym4",
+    "src": "/assets/gym1-4.jpg",
+    "category": "Gym",
+    "alt": "Gym"
+  },
+  {
+    "id": "building",
+    "src": "/assets/gallery-building.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building1",
+    "src": "/assets/thumb-exterior.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building2",
+    "src": "/assets/exterior1-1.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building3",
+    "src": "/assets/exterior1-2.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building4",
+    "src": "/assets/exterior1-3.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building5",
+    "src": "/assets/exterior1-4.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "building6",
+    "src": "/assets/exterior1-5.jpg",
+    "category": "Exterior",
+    "alt": "Building exterior"
+  },
+  {
+    "id": "living1-main",
+    "src": "/assets/living1-main.jpg",
+    "category": "Living room 1",
+    "alt": "Living room 1"
+  },
+  {
+    "id": "living1-2",
+    "src": "/assets/living1-2.jpg",
+    "category": "Living room 1",
+    "alt": "Living room 1 view"
+  },
+  {
+    "id": "living1-3",
+    "src": "/assets/living1-3.jpg",
+    "category": "Living room 1",
+    "alt": "Living room 1 TV"
+  },
+  {
+    "id": "living2-thumb",
+    "src": "/assets/thumb-living2.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2"
+  },
+  {
+    "id": "living2-main",
+    "src": "/assets/living2-main.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2"
+  },
+  {
+    "id": "living2-wide",
+    "src": "/assets/living2-wide.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2 wide view"
+  },
+  {
+    "id": "living2-jacuzzi",
+    "src": "/assets/living2-jacuzzi.jpg",
+    "category": "Living room 2",
+    "alt": "Jacuzzi"
+  },
+  {
+    "id": "living2-2",
+    "src": "/assets/living2-2.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2 view"
+  },
+  {
+    "id": "living2-3",
+    "src": "/assets/living2-3.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2 view"
+  },
+  {
+    "id": "living2",
+    "src": "/assets/living2-4.jpg",
+    "category": "Living room 2",
+    "alt": "Living room 2 view"
+  },
+  {
+    "id": "pool1",
+    "src": "/assets/pool-1.jpg",
+    "category": "Pool",
+    "alt": "Pool"
+  },
+  {
+    "id": "pool2",
+    "src": "/assets/pool-2.jpg",
+    "category": "Pool",
+    "alt": "Pool"
+  },
+  {
+    "id": "full-kitchen",
+    "src": "/assets/thumb-kitchen.jpg",
+    "category": "kitchen",
+    "alt": "kitchen"
+  },
+  {
+    "id": "kitchen",
+    "src": "/assets/thumb-kitchen1-1.jpg",
+    "category": "kitchen",
+    "alt": "kitchen"
+  },
+  {
+    "id": "additional",
+    "src": "/assets/Additional photos1-9.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional1",
+    "src": "/assets/Additional photos1-1.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional2",
+    "src": "/assets/Additional photos1-2.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional3",
+    "src": "/assets/Additional photos1-3.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional4",
+    "src": "/assets/Additional photos1-4.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional5",
+    "src": "/assets/Additional photos1-5.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional6",
+    "src": "/assets/Additional photos1-6.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional7",
+    "src": "/assets/Additional photos1-7.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional8",
+    "src": "/assets/Additional photos1-8.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  },
+  {
+    "id": "additional9",
+    "src": "/assets/thumb-additional.jpg",
+    "category": "Additional photos",
+    "alt": "Additional photo"
+  }
+]

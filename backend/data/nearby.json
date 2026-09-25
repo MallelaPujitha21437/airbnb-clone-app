@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Beautiful Studio with a view to die for",
+    "price": "₹23,600",
+    "rating": 4.91,
+    "image": "/assets/nearby-1.jpg"
+  },
+  {
+    "title": "NAQAB - 1bhk with private pool",
+    "price": "₹42,218",
+    "rating": 4.95,
+    "image": "/assets/nearby-2.jpg"
+  },
+  {
+    "title": "Greentique Luxury Flat with plunge pool, Calangute",
+    "price": "₹44,506",
+    "rating": 4.94,
+    "image": "/assets/nearby-3.jpg"
+  },
+  {
+    "title": "The Tropical Studio | 5 mins to Beach",
+    "price": "₹22,824",
+    "rating": 4.96,
+    "image": "/assets/nearby-4.jpg"
+  },
+  {
+    "title": "Luxury Casa Bella 1BHK with plunge pool, Calangute",
+    "price": "₹39,942",
+    "rating": 4.95,
+    "image": "/assets/nearby-5.jpg"
+  },
+
+  {
+    "title": "Luxury Apartment with Pool View",
+    "price": "₹31,500",
+    "rating": 4.92,
+    "image": "/assets/nearby-6.jpg"
+  },
+  {
+    "title": "Modern Beachside Apartment",
+    "price": "₹28,900",
+    "rating": 4.9,
+    "image": "/assets/nearby-7.jpg"
+  },
+  {
+    "title": "Beautiful Private Villa",
+    "price": "₹46,200",
+    "rating": 4.97,
+    "image": "/assets/nearby-8.jpg"
+  },
+  {
+    "title": "Cozy Studio Near Calangute",
+    "price": "₹21,800",
+    "rating": 4.93,
+    "image": "/assets/nearby-9.jpg"
+  },
+  {
+    "title": "Premium 2BHK with Pool",
+    "price": "₹38,500",
+    "rating": 4.96,
+    "image": "/assets/nearby-10.jpg"
+  }
+]

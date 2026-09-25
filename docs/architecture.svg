@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#222}.box{fill:#fff;stroke:#222;stroke-width:2}.title{font-size:22px;font-weight:bold}.small{font-size:15px}.arrow{stroke:#555;stroke-width:2;marker-end:url(#a)}
+</style>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L9,3 L0,6 Z" fill="#555"/></marker></defs>
+<text x="700" y="40" text-anchor="middle" class="title">Production-scale vacation-rental marketplace architecture</text>
+<rect x="530" y="70" width="340" height="75" rx="12" class="box"/><text x="700" y="103" text-anchor="middle" class="title">Browser</text><text x="700" y="128" text-anchor="middle" class="small">React / Vite frontend</text>
+<rect x="530" y="190" width="340" height="70" rx="12" class="box"/><text x="700" y="220" text-anchor="middle" class="title">CDN / Edge / WAF</text><text x="700" y="245" text-anchor="middle" class="small">TLS · caching · rate limiting</text>
+<rect x="490" y="305" width="420" height="70" rx="12" class="box"/><text x="700" y="335" text-anchor="middle" class="title">API Gateway / Load Balancer</text><text x="700" y="360" text-anchor="middle" class="small">Routes requests to stateless services</text>
+<rect x="80" y="440" width="300" height="85" rx="12" class="box"/><text x="230" y="475" text-anchor="middle" class="title">Listing Service</text><text x="230" y="500" text-anchor="middle" class="small">catalog · photos · reviews</text>
+<rect x="550" y="440" width="300" height="85" rx="12" class="box"/><text x="700" y="475" text-anchor="middle" class="title">Booking Service</text><text x="700" y="500" text-anchor="middle" class="small">availability · reservation locks</text>
+<rect x="1020" y="440" width="300" height="85" rx="12" class="box"/><text x="1170" y="475" text-anchor="middle" class="title">Search Service</text><text x="1170" y="500" text-anchor="middle" class="small">OpenSearch / Elastic</text>
+<rect x="80" y="610" width="300" height="85" rx="12" class="box"/><text x="230" y="645" text-anchor="middle" class="title">PostgreSQL</text><text x="230" y="670" text-anchor="middle" class="small">users · listings · bookings</text>
+<rect x="550" y="610" width="300" height="85" rx="12" class="box"/><text x="700" y="645" text-anchor="middle" class="title">Redis</text><text x="700" y="670" text-anchor="middle" class="small">cache · sessions · locks</text>
+<rect x="1020" y="610" width="300" height="85" rx="12" class="box"/><text x="1170" y="645" text-anchor="middle" class="title">Object Storage + CDN</text><text x="1170" y="670" text-anchor="middle" class="small">photos · media</text>
+<line x1="700" y1="145" x2="700" y2="190" class="arrow"/><line x1="700" y1="260" x2="700" y2="305" class="arrow"/>
+<line x1="620" y1="375" x2="230" y2="440" class="arrow"/><line x1="700" y1="375" x2="700" y2="440" class="arrow"/><line x1="780" y1="375" x2="1170" y2="440" class="arrow"/>
+<line x1="230" y1="525" x2="230" y2="610" class="arrow"/><line x1="700" y1="525" x2="700" y2="610" class="arrow"/><line x1="1170" y1="525" x2="1170" y2="610" class="arrow"/>
+<text x="700" y="770" text-anchor="middle" class="small">Horizontal API replicas · managed database · async events · monitoring · secrets management</text>
+</svg>

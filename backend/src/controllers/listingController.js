@@ -1,0 +1,10 @@
+import * as service from '../services/listingService.js';
+export const listing=async(req,res)=>res.json(await service.getListing());
+export const photos=async(req,res)=>res.json(await service.getPhotos());
+export const reviews=async(req,res)=>res.json(await service.getReviews());
+export const amenities=async(req,res)=>res.json(await service.getAmenities());
+export const nearby=async(req,res)=>res.json(await service.getNearby());
+export const availability=async(req,res)=>res.json(await service.getAvailability());
+export const favorite=async(req,res)=>{if(req.method==='GET') return res.json(await service.getState()); return res.json(await service.setFavorite(Boolean(req.body.favorite)));};
+export const reserve=async(req,res)=>{try{res.status(201).json(await service.createReservation(req.body));}catch(e){res.status(400).json({error:e.message});}};
+export const search=async(req,res)=>{const q=String(req.query.q||'').toLowerCase(); const listing=await service.getListing(); const photos=await service.getPhotos(); res.json({query:q,listing: q && !listing.title.toLowerCase().includes(q) ? null : listing,photos:q?photos.filter(p=>`${p.category} ${p.alt}`.toLowerCase().includes(q)):photos});};

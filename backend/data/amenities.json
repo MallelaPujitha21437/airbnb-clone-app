@@ -1,0 +1,45 @@
+[
+  {
+    "category": "Bathroom & laundry",
+    "items": [
+      "Washing machine",
+      "Hangers",
+      "Bed linen",
+      "Room-darkening blinds",
+      "Iron",
+      "Cot",
+      "Clothes storage"
+    ]
+  },
+  { "category": "Entertainment", "items": ["TV"] },
+  {
+    "category": "Kitchen",
+    "items": [
+      "Kitchen",
+      "Kettle",
+      "Coffee",
+      "Wine glasses",
+      "Toaster",
+      "Blender",
+      "Cooker"
+    ]
+  },
+  { "category": "Location features", "items": ["Private entrance"] },
+  { "category": "Outdoor", "items": ["Patio or balcony"] },
+  {
+    "category": "Parking and facilities",
+    "items": ["Free parking on premises", "Pool", "Hot tub"]
+  },
+  {
+    "category": "Safety",
+    "items": [
+      "Exterior security cameras on property",
+      "Carbon monoxide alarm not reported",
+      "Smoke alarm not reported"
+    ]
+  },
+  {
+    "category": "Services",
+    "items": ["Pets allowed", "Dedicated workspace", "Wifi"]
+  }
+]
